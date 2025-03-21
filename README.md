@@ -15,12 +15,12 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Print da versão responsiva com CSS puro
 
-![alt text](<../home page 1.png>)
+![alt text](<home page 1.png>)
 
-![alt text](<../home page 2.png>)
+![alt text](<home page 2.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-![alt text](<../home page 1 bootstrap.png>)
+![alt text](<home page 1 bootstrap.png>)
 
-![alt text](<../home page 2 bootstrap.png>)
+![alt text](<home page 2 bootstrap.png>)
