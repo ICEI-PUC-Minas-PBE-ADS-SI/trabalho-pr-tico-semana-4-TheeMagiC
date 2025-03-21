@@ -8,15 +8,19 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Cauã Moreira Martins
+- Matricula: 00878733-
+- Proposta de projeto escolhida: Minha proposta foi criar um projeto para um site de portal de notícias
+- Breve descrição sobre seu projeto: O site possui um header que contem o titulo e a logo do site, uma aba para pesquisar notícias e uma aba para logar/registrar. Na main contém um carrossel de notícias, contém também o conteudo do site, com imagens, titulo, subtitulo e o texto. No Aside contém as categorias e a notícia em destaque. Contém tambem o footer, que é o rodapé com as informações básicas.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<../home page 1.png>)
+
+![alt text](<../home page 2.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<../home page 1 bootstrap.png>)
+
+![alt text](<../home page 2 bootstrap.png>)
